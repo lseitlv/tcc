@@ -5,4 +5,78 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.1 }
 
+\bibitem[Amin and Wollenberg 2005]{massoud2005toward}
+\abntrefinfo{Amin and Wollenberg}{AMIN; WOLLENBERG}{2005}
+{AMIN, S.; WOLLENBERG, B. Toward a smart grid: power delivery for the 21st
+  century.
+\textbf{Power and Energy Magazine, IEEE}, v.~3, n.~5, p. 34--41, Sep 2005.}
+
+\bibitem[Ashford 2011]{ashford2011smartmeter}
+\abntrefinfo{Ashford}{ASHFORD}{2011}
+{ASHFORD, W. \textbf{Smart meter and smart grids: security risk or
+  opportunity?} 2011.
+Accessed: 2015-08-25.
+Available from Internet:
+  \url{http://www.computerweekly.com/news/1280097292/Smart-meter-and-smart-grids-security-risk-or-opportunity}.}
+
+\bibitem[BACnet Device Simulator 2.0]{bacnetwebsite}
+\abntrefinfo{BACnet\ldots}{BACNET\ldots}{}
+{BACNET Device Simulator 2.0.
+Accessed: 2015-08-11.
+Available from Internet: \url{http://www.scadaengine.com/software6.html}.}
+
+\bibitem[Bou-Harb et al. 2013]{harb2013communication}
+\abntrefinfo{Bou-Harb et al.}{BOU-HARB et al.}{2013}
+{BOU-HARB, E. et al. Communication security for smart grid distribution
+  networks.
+\textbf{Communications Magazine, IEEE}, v.~51, n.~1, p. 42--49, Jan 2013.}
+
+\bibitem[Braam 2009]{plcsimwebsite}
+\abntrefinfo{Braam}{BRAAM}{2009}
+{BRAAM, C. \textbf{Modbus PLC Simulator}. 2009.
+Accessed: 2015-08-11.
+Available from Internet: \url{http://www.plcsimulator.org/}.}
+
+\bibitem[Chen, Cheng and Chen 2012]{pin2012smart}
+\abntrefinfo{Chen, Cheng and Chen}{CHEN; CHENG; CHEN}{2012}
+{CHEN, P.-Y.; CHENG, S.-M.; CHEN, K.-C. Smart attacks in smart grid
+  communication networks.
+\textbf{Communications Magazine, IEEE}, v.~50, n.~8, p. 24--29, Aug 2012.}
+
+\bibitem[Langner 2011]{langner2011stuxnet}
+\abntrefinfo{Langner}{LANGNER}{2011}
+{LANGNER, R. Stuxnet: Dissecting a cyberwarfare weapon.
+\textbf{Security and Privacy, IEEE}, v.~9, n.~3, p. 49--51, May 2011.}
+
+\bibitem[Li et al. 2012]{li2012securing}
+\abntrefinfo{Li et al.}{LI et al.}{2012}
+{LI, X. et al. Securing smart grid: cyber attacks, countermeasures, and
+  challenges.
+\textbf{Communications Magazine, IEEE}, v.~50, n.~8, p. 38--45, Aug 2012.}
+
+\bibitem[Mosaik 2015]{mosaikwebsite}
+\abntrefinfo{Mosaik}{MOSAIK}{2015}
+{MOSAIK. 2015.
+Accessed: 2015-08-11.
+Available from Internet: \url{https://mosaik.offis.de/}.}
+
+\bibitem[Queiroz, Mahmood and Tari 2011]{scadasimart}
+\abntrefinfo{Queiroz, Mahmood and Tari}{QUEIROZ; MAHMOOD; TARI}{2011}
+{QUEIROZ, C.; MAHMOOD, A.; TARI, Z. Scadasim - a framework for building scada
+  simulations.
+\textbf{Smart Grid, IEEE Transactions}, v.~2, n.~4, p. 589--597, Sep 2011.}
+
+\bibitem[Seidl 2015]{virtuaplantwebsite}
+\abntrefinfo{Seidl}{SEIDL}{2015}
+{SEIDL, J. \textbf{VirtuaPlant}. 2015.
+Accessed: 2015-08-11.
+Available from Internet: \url{http://wroot.org/projects/virtuaplant/}.}
+
+\bibitem[Yan et al. 2013]{2013survey}
+\abntrefinfo{Yan et al.}{YAN et al.}{2013}
+{YAN, Y. et al. A survey on smart grid communication infrastructures:
+  Motivations, requirements and challenges.
+\textbf{Communications Surveys and Tutorials, IEEE}, v.~15, n.~1, p. 5--20, Feb
+  2013.}
+
 \end{thebibliography}
