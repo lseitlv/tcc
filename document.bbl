@@ -15,15 +15,8 @@
 \abntrefinfo{Ashford}{ASHFORD}{2011}
 {ASHFORD, W. \textbf{Smart meter and smart grids: security risk or
   opportunity?} 2011.
-Accessed: 2015-08-25.
 Available from Internet:
   \url{http://www.computerweekly.com/news/1280097292/Smart-meter-and-smart-grids-security-risk-or-opportunity}.}
-
-\bibitem[BACnet Device Simulator 2.0]{bacnetwebsite}
-\abntrefinfo{BACnet\ldots}{BACNET\ldots}{}
-{BACNET Device Simulator 2.0.
-Accessed: 2015-08-11.
-Available from Internet: \url{http://www.scadaengine.com/software6.html}.}
 
 \bibitem[Bou-Harb et al. 2013]{harb2013communication}
 \abntrefinfo{Bou-Harb et al.}{BOU-HARB et al.}{2013}
@@ -34,14 +27,33 @@ Available from Internet: \url{http://www.scadaengine.com/software6.html}.}
 \bibitem[Braam 2009]{plcsimwebsite}
 \abntrefinfo{Braam}{BRAAM}{2009}
 {BRAAM, C. \textbf{Modbus PLC Simulator}. 2009.
-Accessed: 2015-08-11.
 Available from Internet: \url{http://www.plcsimulator.org/}.}
+
+\bibitem[Carcano et al. 2011]{carcano2011multidim}
+\abntrefinfo{Carcano et al.}{CARCANO et al.}{2011}
+{CARCANO, A. et al. A multidimensional critical state analysis for detecting
+  intrusions in scada systems.
+\textbf{Industrial Informatics, IEEE Transactions}, v.~7, n.~2, p. 179--186,
+  May 2011.}
+
+\bibitem[Chan and Zhou 2013]{chan2013cybersecurity}
+\abntrefinfo{Chan and Zhou}{CHAN; ZHOU}{2013}
+{CHAN, A.; ZHOU, J. On smart grid cybersecurity standardization: Issues of
+  designing with nistir 7628.
+\textbf{Communications Magazine, IEEE}, v.~51, n.~1, p. 58--65, Jan 2013.}
 
 \bibitem[Chen, Cheng and Chen 2012]{pin2012smart}
 \abntrefinfo{Chen, Cheng and Chen}{CHEN; CHENG; CHEN}{2012}
 {CHEN, P.-Y.; CHENG, S.-M.; CHEN, K.-C. Smart attacks in smart grid
   communication networks.
 \textbf{Communications Magazine, IEEE}, v.~50, n.~8, p. 24--29, Aug 2012.}
+
+\bibitem[Coutinho et al. 2009]{coutinho2009anomaly}
+\abntrefinfo{Coutinho et al.}{COUTINHO et al.}{2009}
+{COUTINHO, M. et al. Anomaly detection in power system control center critical
+  infrastructures using rough classification algorithm.
+\textbf{Digital Ecosystems and Technologies, 2009. DEST 09. 3rd IEEE
+  International Conference}, p. 733--738, Jun 2009.}
 
 \bibitem[Langner 2011]{langner2011stuxnet}
 \abntrefinfo{Langner}{LANGNER}{2011}
@@ -57,8 +69,19 @@ Available from Internet: \url{http://www.plcsimulator.org/}.}
 \bibitem[Mosaik 2015]{mosaikwebsite}
 \abntrefinfo{Mosaik}{MOSAIK}{2015}
 {MOSAIK. 2015.
-Accessed: 2015-08-11.
 Available from Internet: \url{https://mosaik.offis.de/}.}
+
+\bibitem[Nguyen and Armitage 2008]{nguyen2008survey}
+\abntrefinfo{Nguyen and Armitage}{NGUYEN; ARMITAGE}{2008}
+{NGUYEN, T.; ARMITAGE, G. A survey of techniques for internet traffic
+  classification using machine learning.
+\textbf{Communications Surveys and Tutorials, IEEE}, v.~10, n.~4, p. 56--76,
+  Fourth Quarter 2008.}
+
+\bibitem[NIST 2014]{nistir7628}
+\abntrefinfo{NIST}{NIST}{2014}
+{NIST. Nistir 7628 revision 1: Guidelines for smart grid cybersecurity.
+\textbf{NISTIR 7628 Rev. 1}, v.~1-3, Sep 2014.}
 
 \bibitem[Queiroz, Mahmood and Tari 2011]{scadasimart}
 \abntrefinfo{Queiroz, Mahmood and Tari}{QUEIROZ; MAHMOOD; TARI}{2011}
@@ -69,8 +92,20 @@ Available from Internet: \url{https://mosaik.offis.de/}.}
 \bibitem[Seidl 2015]{virtuaplantwebsite}
 \abntrefinfo{Seidl}{SEIDL}{2015}
 {SEIDL, J. \textbf{VirtuaPlant}. 2015.
-Accessed: 2015-08-11.
 Available from Internet: \url{http://wroot.org/projects/virtuaplant/}.}
+
+\bibitem[Tsang and Kwong 2005]{tsang2005multi}
+\abntrefinfo{Tsang and Kwong}{TSANG; KWONG}{2005}
+{TSANG, C.-H.; KWONG, S. Multi-agent intrusion detection system in industrial
+  network using ant colony clustering approach and unsupervised feature
+  extraction.
+\textbf{Industrial Technology, 2005. ICIT 2005. IEEE International Conference},
+  p. 51--56, Dec 2005.}
+
+\bibitem[Wermann et al.]{wermann2015astoria}
+\abntrefinfo{Wermann et al.}{WERMANN et al.}{}
+{WERMANN, A.~G. et al. Astoria: A framework for attack simulation and
+  evaluation in smart grids.}
 
 \bibitem[Yan et al. 2013]{2013survey}
 \abntrefinfo{Yan et al.}{YAN et al.}{2013}
