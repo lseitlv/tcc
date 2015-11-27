@@ -204,26 +204,6 @@
     timestamp = {2015.09.09}
 }
 
-@article{weili2012survey,
-    author    = {Weili Han and Chang Lei},
-    title     = {Survey Paper: A survey on policy languages in network and security management},
-    journal   = {Compututer Networks},
-    volume    = {56},
-    number    = {1},
-    pages     = {477-489},
-    year      = {2012},
-    month    = {Jan},
-    abstract-note = {Policy-driven management is gaining popularity today, mainly due to the ever-growing
-scale and complexity of large networked systems. In these systems, policies are usually
-used to simplify the tasks of the system management, thus making way for further system
-enlargement. Accordingly, a variety of policy languages are proposed to express intentions
-of administrators in the policy-driven systems, especially for the network and security
-management. This paper, therefore, investigates current works, discusses the key issues,
-and then outlines the future work of policy languages.},
-    owner = {lseitelvein},
-    timestamp = {2015.09.07}
-}
-
 @article{nguyen2008survey,
     author    = {Nguyen, T.T.T. and Armitage, G.},
     title     = {A survey of techniques for internet traffic classification using machine learning},
@@ -239,4 +219,35 @@ and then outlines the future work of policy languages.},
     timestamp = {2015.10.17}
 }
 
+@article{wermann2015astoria,
+    author    = {Alexandre G. Wermann and Marcelo C. Bortolozzo and Eduardo Germano da Silva and Alberto Schaeffer Filho and Luciano P. Gaspary and Marinho Barcellos},
+    title     = {ASTORIA: A Framework for Attack Simulation and Evaluation in Smart Grids},
+    owner = {lseitelvein},
+    timestamp = {2015.10.26}
+}
 
+@misc{pypower,
+    title     = {PYPOWER},
+    year      = {2011},
+    url       = {https://pypi.python.org/pypi/PYPOWER}
+}
+
+@article{matpower,
+    author    = {R. D. Zimmerman and C. E. Murillo-Sanchez and R. J. Thomas},
+    title     = {MATPOWER: Steady State Operations, Planning and Analysis Tools for Power Systems Research and Education},
+    journal   = {Power Systems, IEEE Transactions on},
+    volume    = {26},
+    number    = {1},
+    pages     = {12-19},
+    year      = {2011},
+    month    = {Feb},
+    doi = {10.1109/SURV.2008.080406},
+    owner = {lseitelvein},
+    timestamp = {2015.10.26}
+}
+
+@misc{nsnam,
+    title     = {ns3},
+    year      = {2011},
+    url       = {https://www.nsnam.org/}
+}

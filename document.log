@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.8.3)  26 OCT 2015 20:11
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.8.3)  24 NOV 2015 23:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -725,33 +725,91 @@ Now handling font encoding PU ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip79
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks19
+\ex@=\dimen148
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen149
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count140
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count141
+\leftroot@=\count142
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count143
+\DOTSCASE@=\count144
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box42
+\strutbox@=\box43
+\big@size=\dimen150
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count145
+\c@MaxMatrixCols=\count146
+\dotsspace@=\muskip17
+\c@parentequation=\count147
+\dspbrk@lvl=\count148
+\tag@help=\toks20
+\row@=\count149
+\column@=\count150
+\maxfields@=\count151
+\andhelp@=\toks21
+\eqnshift@=\dimen151
+\alignsep@=\dimen152
+\tagshift@=\dimen153
+\tagwidth@=\dimen154
+\totwidth@=\dimen155
+\lineht@=\dimen156
+\@envbody=\toks22
+\multlinegap=\skip80
+\multlinetaggap=\skip81
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen148
-\extrarowheight=\dimen149
-\NC@list=\toks19
-\extratabsurround=\skip79
-\backup@length=\skip80
+\col@sep=\dimen157
+\extrarowheight=\dimen158
+\NC@list=\toks24
+\extratabsurround=\skip82
+\backup@length=\skip83
 ) (./document.aux)
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 63.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 64.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
@@ -762,21 +820,21 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             or
 (lastpage)             http://www.ctan.org/tex-archive/ 
 (lastpage)             install/macros/latex/contrib/pageslts.tds.zip
-(lastpage)             ! on input line 63.
+(lastpage)             ! on input line 64.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count140
-\scratchdimen=\dimen150
-\scratchbox=\box42
-\nofMPsegments=\count141
-\nofMParguments=\count142
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count143
-\MPscratchDim=\dimen151
-\MPnumerator=\count144
-\makeMPintoPDFobject=\count145
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count152
+\scratchdimen=\dimen159
+\scratchbox=\box44
+\nofMPsegments=\count153
+\nofMParguments=\count154
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count155
+\MPscratchDim=\dimen160
+\MPnumerator=\count156
+\makeMPintoPDFobject=\count157
+\everyMPtoPDFconversion=\toks26
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -793,25 +851,19 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 63.
-Package tocstyle Info: prepare \l@part for redefinition on input line 63.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 64.
+Package tocstyle Info: prepare \l@part for redefinition on input line 64.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 63.
-Package tocstyle Info: prepare \l@chapter for redefinition on input line 63.
-Package tocstyle Info: prepare \l@section for redefinition on input line 63.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 63.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 63.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 63.
-Package tocstyle Info: prepare \l@subsection for redefinition on input line 63.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 64.
+Package tocstyle Info: prepare \l@chapter for redefinition on input line 64.
+Package tocstyle Info: prepare \l@section for redefinition on input line 64.
+Package tocstyle Info: prepare \l@subsection for redefinition on input line 64.
 
 Package tocstyle Info: prepare \l@subsubsection for redefinition on input line 
-63.
-Package tocstyle Info: prepare \l@table for redefinition on input line 63.
-Package tocstyle Info: prepare \l@figure for redefinition on input line 63.
-\AtBeginShipoutBox=\box43
+64.
+Package tocstyle Info: prepare \l@table for redefinition on input line 64.
+Package tocstyle Info: prepare \l@figure for redefinition on input line 64.
+\AtBeginShipoutBox=\box45
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
@@ -821,7 +873,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-Package hyperref Info: Link coloring ON on input line 63.
+Package hyperref Info: Link coloring ON on input line 64.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -829,74 +881,193 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count146
+\c@section@level=\count158
 )
-LaTeX Info: Redefining \ref on input line 63.
-LaTeX Info: Redefining \pageref on input line 63.
-LaTeX Info: Redefining \nameref on input line 63.
+LaTeX Info: Redefining \ref on input line 64.
+LaTeX Info: Redefining \pageref on input line 64.
+LaTeX Info: Redefining \nameref on input line 64.
 
 (./document.out) (./document.out)
 \@outlinefile=\write3
 \openout3 = `document.out'.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 70.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 70.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 70.
 
-Underfull \hbox (badness 1127) in paragraph at lines 69--69
+Underfull \hbox (badness 1127) in paragraph at lines 70--70
 \T1/ptm/m/n/12 a obtenção do grau de Bacharel em Ciência da
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 70.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 70.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 89.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 89.
  [2
 
 
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 89.
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 96.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 96.
 [3
 
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 107.
+(babel)             in language  on input line 101.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 107.
+(babel)             in language  on input line 101.
  [4
 
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 107.
+(babel)             in language  on input line 101.
+ (./document.lof
+number indent by \l@... (lof, 1):  18.0pt
+text indent by \l@... (lof, 1):  27.60004pt
+number indent by parent (lof, 1):  18.0pt
+text indent calculated (lof, 1): 21.0pt
+number indent calculated (lof, 1): 18.0pt
+text noindent (lof, 1): 21.0pt
+number noindent (lof, 1): 0.0pt
+number indent by \l@... (lof, 1):  18.0pt
+text indent by \l@... (lof, 1):  27.60004pt
+number indent by parent (lof, 1):  18.0pt
+text indent calculated (lof, 1): 21.0pt
+number indent calculated (lof, 1): 18.0pt
+text noindent (lof, 1): 21.0pt
+number noindent (lof, 1): 0.0pt
+number indent by \l@... (lof, 1):  18.0pt
+text indent by \l@... (lof, 1):  27.60004pt
+number indent by parent (lof, 1):  18.0pt
+text indent calculated (lof, 1): 21.0pt
+number indent calculated (lof, 1): 18.0pt
+text noindent (lof, 1): 21.0pt
+number noindent (lof, 1): 0.0pt
+number indent by \l@... (lof, 1):  18.0pt
+text indent by \l@... (lof, 1):  27.60004pt
+number indent by parent (lof, 1):  18.0pt
+text indent calculated (lof, 1): 21.0pt
+number indent calculated (lof, 1): 18.0pt
+text noindent (lof, 1): 21.0pt
+number noindent (lof, 1): 0.0pt
+number indent by \l@... (lof, 1):  18.0pt
+text indent by \l@... (lof, 1):  27.60004pt
+number indent by parent (lof, 1):  18.0pt
+text indent calculated (lof, 1): 21.0pt
+number indent calculated (lof, 1): 18.0pt
+text noindent (lof, 1): 21.0pt
+number noindent (lof, 1): 0.0pt
+number indent by \l@... (lof, 1):  18.0pt
+text indent by \l@... (lof, 1):  27.60004pt
+number indent by parent (lof, 1):  18.0pt
+text indent calculated (lof, 1): 21.0pt
+number indent calculated (lof, 1): 18.0pt
+text noindent (lof, 1): 21.0pt
+number noindent (lof, 1): 0.0pt
+number indent by \l@... (lof, 1):  18.0pt
+text indent by \l@... (lof, 1):  27.60004pt
+number indent by parent (lof, 1):  18.0pt
+text indent calculated (lof, 1): 21.0pt
+number indent calculated (lof, 1): 18.0pt
+text noindent (lof, 1): 21.0pt
+number noindent (lof, 1): 0.0pt
+number indent by \l@... (lof, 1):  18.0pt
+text indent by \l@... (lof, 1):  27.60004pt
+number indent by parent (lof, 1):  18.0pt
+text indent calculated (lof, 1): 21.0pt
+number indent calculated (lof, 1): 18.0pt
+text noindent (lof, 1): 21.0pt
+number noindent (lof, 1): 0.0pt
+number indent by \l@... (lof, 1):  18.0pt
+text indent by \l@... (lof, 1):  27.60004pt
+number indent by parent (lof, 1):  18.0pt
+text indent calculated (lof, 1): 21.0pt
+number indent calculated (lof, 1): 18.0pt
+text noindent (lof, 1): 21.0pt
+number noindent (lof, 1): 0.0pt
+number indent by \l@... (lof, 1):  18.0pt
+text indent by \l@... (lof, 1):  27.60004pt
+number indent by parent (lof, 1):  18.0pt
+text indent calculated (lof, 1): 21.0pt
+number indent calculated (lof, 1): 18.0pt
+text noindent (lof, 1): 21.0pt
+number noindent (lof, 1): 0.0pt
+number indent by \l@... (lof, 1):  18.0pt
+text indent by \l@... (lof, 1):  27.60004pt
+number indent by parent (lof, 1):  18.0pt
+text indent calculated (lof, 1): 21.0pt
+number indent calculated (lof, 1): 18.0pt
+text noindent (lof, 1): 21.0pt
+number noindent (lof, 1): 0.0pt
+number indent by \l@... (lof, 1):  18.0pt
+text indent by \l@... (lof, 1):  27.60004pt
+number indent by parent (lof, 1):  18.0pt
+text indent calculated (lof, 1): 21.0pt
+number indent calculated (lof, 1): 18.0pt
+text noindent (lof, 1): 21.0pt
+number noindent (lof, 1): 0.0pt
+)
+\tf@lof=\write4
+\openout4 = `document.lof'.
+
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 133.
+(babel)             in language  on input line 104.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 133.
+(babel)             in language  on input line 104.
  [5
 
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 133.
+(babel)             in language  on input line 104.
+ (./document.lot
+number indent by \l@... (lot, 1):  18.0pt
+text indent by \l@... (lot, 1):  27.60004pt
+number indent by parent (lot, 1):  18.0pt
+text indent calculated (lot, 1): 21.0pt
+number indent calculated (lot, 1): 18.0pt
+text noindent (lot, 1): 21.0pt
+number noindent (lot, 1): 0.0pt
+)
+\tf@lot=\write5
+\openout5 = `document.lot'.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 108.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 108.
+ [6
+
+]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 108.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 141.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 141.
+ [7
+
+]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 141.
  (./document.toc
 number indent by \l@... (toc, 0):  0.0pt
 text indent by \l@... (toc, 0):  18.0pt
@@ -961,6 +1132,13 @@ text indent calculated (toc, 2): 30.0pt
 number indent calculated (toc, 2): 39.0pt
 text noindent (toc, 2): 39.0pt
 number noindent (toc, 2): 0.0pt
+number indent by \l@... (toc, 3):  84.0pt
+text indent by \l@... (toc, 3):  49.20007pt
+number indent by parent (toc, 3):  69.0pt
+text indent calculated (toc, 3): 39.0pt
+number indent calculated (toc, 3): 75.60004pt
+text noindent (toc, 3): 39.0pt
+number noindent (toc, 3): 0.0pt
 number indent by \l@... (toc, 2):  45.60004pt
 text indent by \l@... (toc, 2):  38.39996pt
 number indent by parent (toc, 2):  39.0pt
@@ -968,34 +1146,6 @@ text indent calculated (toc, 2): 30.0pt
 number indent calculated (toc, 2): 39.0pt
 text noindent (toc, 2): 39.0pt
 number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 3):  84.0pt
-text indent by \l@... (toc, 3):  49.20007pt
-number indent by parent (toc, 3):  69.0pt
-text indent calculated (toc, 3): 39.0pt
-number indent calculated (toc, 3): 69.0pt
-text noindent (toc, 3): 39.0pt
-number noindent (toc, 3): 0.0pt
-number indent by \l@... (toc, 3):  84.0pt
-text indent by \l@... (toc, 3):  49.20007pt
-number indent by parent (toc, 3):  69.0pt
-text indent calculated (toc, 3): 39.0pt
-number indent calculated (toc, 3): 69.0pt
-text noindent (toc, 3): 39.0pt
-number noindent (toc, 3): 0.0pt
-number indent by \l@... (toc, 3):  84.0pt
-text indent by \l@... (toc, 3):  49.20007pt
-number indent by parent (toc, 3):  69.0pt
-text indent calculated (toc, 3): 39.0pt
-number indent calculated (toc, 3): 69.0pt
-text noindent (toc, 3): 39.0pt
-number noindent (toc, 3): 0.0pt
-number indent by \l@... (toc, 3):  84.0pt
-text indent by \l@... (toc, 3):  49.20007pt
-number indent by parent (toc, 3):  69.0pt
-text indent calculated (toc, 3): 39.0pt
-number indent calculated (toc, 3): 69.0pt
-text noindent (toc, 3): 39.0pt
-number noindent (toc, 3): 0.0pt
 number indent by \l@... (toc, 1):  18.0pt
 text indent by \l@... (toc, 1):  27.60004pt
 number indent by parent (toc, 1):  18.0pt
@@ -1017,13 +1167,13 @@ text indent calculated (toc, 2): 30.0pt
 number indent calculated (toc, 2): 39.0pt
 text noindent (toc, 2): 39.0pt
 number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 3):  84.0pt
-text indent by \l@... (toc, 3):  49.20007pt
-number indent by parent (toc, 3):  69.0pt
-text indent calculated (toc, 3): 39.0pt
-number indent calculated (toc, 3): 69.0pt
-text noindent (toc, 3): 39.0pt
-number noindent (toc, 3): 0.0pt
+number indent by \l@... (toc, 2):  45.60004pt
+text indent by \l@... (toc, 2):  38.39996pt
+number indent by parent (toc, 2):  39.0pt
+text indent calculated (toc, 2): 30.0pt
+number indent calculated (toc, 2): 39.0pt
+text noindent (toc, 2): 39.0pt
+number noindent (toc, 2): 0.0pt
 number indent by \l@... (toc, 1):  18.0pt
 text indent by \l@... (toc, 1):  27.60004pt
 number indent by parent (toc, 1):  18.0pt
@@ -1094,13 +1244,6 @@ text indent calculated (toc, 2): 30.0pt
 number indent calculated (toc, 2): 39.0pt
 text noindent (toc, 2): 39.0pt
 number noindent (toc, 2): 0.0pt
-number indent by \l@... (toc, 2):  45.60004pt
-text indent by \l@... (toc, 2):  38.39996pt
-number indent by parent (toc, 2):  39.0pt
-text indent calculated (toc, 2): 30.0pt
-number indent calculated (toc, 2): 39.0pt
-text noindent (toc, 2): 39.0pt
-number noindent (toc, 2): 0.0pt
 number indent by \l@... (toc, 1):  18.0pt
 text indent by \l@... (toc, 1):  27.60004pt
 number indent by parent (toc, 1):  18.0pt
@@ -1108,6 +1251,20 @@ text indent calculated (toc, 1): 21.0pt
 number indent calculated (toc, 1): 18.0pt
 text noindent (toc, 1): 39.0pt
 number noindent (toc, 1): 0.0pt
+number indent by \l@... (toc, 2):  45.60004pt
+text indent by \l@... (toc, 2):  38.39996pt
+number indent by parent (toc, 2):  39.0pt
+text indent calculated (toc, 2): 30.0pt
+number indent calculated (toc, 2): 39.0pt
+text noindent (toc, 2): 39.0pt
+number noindent (toc, 2): 0.0pt
+number indent by \l@... (toc, 2):  45.60004pt
+text indent by \l@... (toc, 2):  38.39996pt
+number indent by parent (toc, 2):  39.0pt
+text indent calculated (toc, 2): 30.0pt
+number indent calculated (toc, 2): 39.0pt
+text noindent (toc, 2): 39.0pt
+number noindent (toc, 2): 0.0pt
 number indent by \l@... (toc, 0):  0.0pt
 text indent by \l@... (toc, 0):  18.0pt
 number indent by parent (toc, 0):  0.0pt
@@ -1129,6 +1286,20 @@ text indent calculated (toc, 1): 21.0pt
 number indent calculated (toc, 1): 18.0pt
 text noindent (toc, 1): 39.0pt
 number noindent (toc, 1): 0.0pt
+number indent by \l@... (toc, 2):  45.60004pt
+text indent by \l@... (toc, 2):  38.39996pt
+number indent by parent (toc, 2):  39.0pt
+text indent calculated (toc, 2): 30.0pt
+number indent calculated (toc, 2): 39.0pt
+text noindent (toc, 2): 39.0pt
+number noindent (toc, 2): 0.0pt
+number indent by \l@... (toc, 2):  45.60004pt
+text indent by \l@... (toc, 2):  38.39996pt
+number indent by parent (toc, 2):  39.0pt
+text indent calculated (toc, 2): 30.0pt
+number indent calculated (toc, 2): 39.0pt
+text noindent (toc, 2): 39.0pt
+number noindent (toc, 2): 0.0pt
 number indent by \l@... (toc, 1):  18.0pt
 text indent by \l@... (toc, 1):  27.60004pt
 number indent by parent (toc, 1):  18.0pt
@@ -1165,415 +1336,648 @@ number indent calculated (toc, 0): 0.0pt
 text noindent (toc, 0): 39.0pt
 number noindent (toc, 0): 0.0pt
 )
-\tf@toc=\write4
-\openout4 = `document.toc'.
+\tf@toc=\write6
+\openout6 = `document.toc'.
 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 135.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 135.
- [6
-
-]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 135.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 136.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 137.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 138.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 139.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 140.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 140.
- [7
-
-]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 140.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 143.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 148.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/ptm/m/n/10.95 8
- []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 152.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 152.
-[8
+(babel)             in language  on input line 143.
+ [8
 
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 155.
- <smart_grid_arch.pdf, id=275, 722.7pt x 542.025pt>
-File: smart_grid_arch.pdf Graphic file (type pdf)
-
-<use smart_grid_arch.pdf>
-Package pdftex.def Info: smart_grid_arch.pdf used on input line 165.
-(pdftex.def)             Requested size: 312.0pt x 234.00078pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+(babel)             in language  on input line 143.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 169.
+(babel)             in language  on input line 144.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 169.
-[9]
+(babel)             in language  on input line 145.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 172.
+(babel)             in language  on input line 146.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 147.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 148.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 148.
+ [9
+
+]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 148.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 151.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 157.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 \T1/ptm/m/n/10.95 10
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 179.
+(babel)             in language  on input line 161.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 179.
-[10 <./smart_grid_arch.pdf>]
+(babel)             in language  on input line 161.
+[10
+
+]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 180.
+(babel)             in language  on input line 164.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 183.
+(babel)             in language  on input line 175.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 186.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 189.
+(babel)             in language  on input line 175.
+ [11] <smart_grid_arch.pdf, id=327, 722.7pt x 542.025pt>
+File: smart_grid_arch.pdf Graphic file (type pdf)
+
+<use smart_grid_arch.pdf>
+Package pdftex.def Info: smart_grid_arch.pdf used on input line 184.
+(pdftex.def)             Requested size: 360.0pt x 270.0028pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 213.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 217.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 217.
-[11]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 218.
+(babel)             in language  on input line 190.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 \T1/ptm/m/n/10.95 12
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 221.
+(babel)             in language  on input line 197.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 221.
+(babel)             in language  on input line 197.
 [12]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 222.
+(babel)             in language  on input line 204.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 226.
+(babel)             in language  on input line 204.
+ [13 <./smart_grid_arch.pdf>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 228.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 228.
- [13]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 231.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 235.
+(babel)             in language  on input line 207.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 \T1/ptm/m/n/10.95 14
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 243.
+(babel)             in language  on input line 218.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 243.
+(babel)             in language  on input line 218.
 [14]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 244.
+(babel)             in language  on input line 222.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 255.
+(babel)             in language  on input line 227.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 257.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 257.
+(babel)             in language  on input line 227.
  [15]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 264.
+(babel)             in language  on input line 234.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 \T1/ptm/m/n/10.95 16
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 266.
+(babel)             in language  on input line 238.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 266.
+(babel)             in language  on input line 238.
 [16]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 272.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 284.
-
-Underfull \hbox (badness 1009) in paragraph at lines 289--289
-[]|\T1/ptm/m/n/8 Simulação da in-fra-
- []
-
-
-Underfull \hbox (badness 2932) in paragraph at lines 289--289
-\T1/ptm/m/n/8 si-mula es-tru-tura de
- []
-
-
-Underfull \hbox (badness 4819) in paragraph at lines 291--291
-[]|\T1/ptm/m/n/8 Simulação de con-
- []
-
-
-Underfull \hbox (badness 1546) in paragraph at lines 291--291
-\T1/ptm/m/n/8 sumo e ge-ra-ção de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 293--293
-[]|\T1/ptm/m/n/8 Elementos mo-de-lá-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 293--293
-[]|\T1/ptm/m/n/8 Infraestrutura TIC,
- []
-
-
-Underfull \hbox (badness 2452) in paragraph at lines 293--293
-\T1/ptm/m/n/8 con-sumo e ge-ra-ção
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 293--293
-[]|\T1/ptm/m/n/8 Infraestrutura TIC
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 293--293
-\T1/ptm/m/n/8 e com-po-nen-tes
- []
-
-
-Underfull \hbox (badness 7685) in paragraph at lines 293--294
-[]|\T1/ptm/m/n/8 Apenas trá-fego de
- []
-
-
-Underfull \hbox (badness 1009) in paragraph at lines 293--294
-\T1/ptm/m/n/8 da-dos en-tre com-po-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 297--297
-[]|\T1/ptm/m/n/8 Modelagem re-a-li-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 297--297
-\T1/ptm/m/n/8 zada pelo com-po-
- []
-
-
-Underfull \hbox (badness 2790) in paragraph at lines 299--299
-[]|\T1/ptm/m/n/8 Definição de no-vas
- []
-
-
-Underfull \hbox (badness 7397) in paragraph at lines 301--301
-[]|\T1/ptm/m/n/8 Inclui ata-ques que
- []
-
-
-Underfull \hbox (badness 2213) in paragraph at lines 301--301
-[]|\T1/ptm/m/n/8 Não in-clui ata-ques,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 301--301
-\T1/ptm/m/n/8 mas é pos-sí-vel
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 301--301
-\T1/ptm/m/n/8 desenvolvê-los
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 301--301
-\T1/ptm/m/n/8 para com-po-nen-tes
- []
-
-
-Underfull \hbox (badness 1997) in paragraph at lines 301--301
-[]|\T1/ptm/m/n/8 Inclui bi-bli-o-teca de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 301--301
-\T1/ptm/m/n/8 ata-ques a com-po-
- []
-
-
-Underfull \hbox (badness 4132) in paragraph at lines 301--301
-\T1/ptm/m/n/8 nen-tes da es-tru-tura
- []
-
+(babel)             in language  on input line 251.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 308.
+(babel)             in language  on input line 251.
+ [17]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 308.
-[17]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 308.
-
-
-LaTeX Warning: Reference `secsdi' on page 18 undefined on input line 311.
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 313.
-
-Package hyperref Warning: Suppressing empty link on input line 316.
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 322.
+(babel)             in language  on input line 252.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 \T1/ptm/m/n/10.95 18
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 326.
+(babel)             in language  on input line 260.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 326.
-[18
-
-]
+(babel)             in language  on input line 260.
+[18]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 337.
+(babel)             in language  on input line 266.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 342.
+(babel)             in language  on input line 271.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 342.
+(babel)             in language  on input line 271.
  [19]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 272.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 278.
+
 Underfull \hbox (badness 10000) has occurred while \output is active
 \T1/ptm/m/n/10.95 20
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 360.
+(babel)             in language  on input line 280.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 360.
+(babel)             in language  on input line 280.
 [20]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 363.
+(babel)             in language  on input line 285.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 291.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 291.
+ [21]
 
-
-LaTeX Warning: Reference `figsimulation' on page 21 undefined on input line 367
-.
+Package hyperref Warning: Suppressing empty link on input line 296.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 371.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 372.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 372.
-[21]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 372.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 373.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 374.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 375.
+(babel)             in language  on input line 298.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 \T1/ptm/m/n/10.95 22
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 376.
+(babel)             in language  on input line 304.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 376.
-[22
+(babel)             in language  on input line 304.
+[22]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 307.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 315.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 318.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 318.
+ [23]
+Underfull \hbox (badness 1009) in paragraph at lines 341--341
+[]|\T1/ptm/m/n/8 Simulação da in-fra-
+ []
 
-]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 376.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 377.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 378.
- (./document.bbl
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 3.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 3.
- [23
 
-]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 3.
+Underfull \hbox (badness 2932) in paragraph at lines 341--341
+\T1/ptm/m/n/8 si-mula es-tru-tura de
+ []
+
+
+Underfull \hbox (badness 3000) in paragraph at lines 343--343
+\T1/ptm/m/n/8 ção e con-sumo de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 345--345
+[]|\T1/ptm/m/n/8 Elementos mo-de-lá-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 345--345
+[]|\T1/ptm/m/n/8 Infraestrutura
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 345--345
+\T1/ptm/m/n/8 SCADA, to-po-lo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 345--345
+[]|\T1/ptm/m/n/8 Infraestrutura
+ []
+
+
+Underfull \hbox (badness 7685) in paragraph at lines 345--346
+[]|\T1/ptm/m/n/8 Apenas trá-fego de
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 345--346
+\T1/ptm/m/n/8 da-dos en-tre com-po-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
+[]|\T1/ptm/m/n/8 Modelagem re-a-li-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
+\T1/ptm/m/n/8 zada pelo com-po-
+ []
+
+
+Underfull \hbox (badness 2790) in paragraph at lines 351--351
+[]|\T1/ptm/m/n/8 Definição de no-vas
+ []
+
+
+Underfull \hbox (badness 7397) in paragraph at lines 353--353
+[]|\T1/ptm/m/n/8 Inclui ata-ques que
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--353
+[]|\T1/ptm/m/n/8 Framework AS-TO-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--353
+\T1/ptm/m/n/8 e si-mu-la-ção de
+ []
+
+
+Underfull \hbox (badness 4832) in paragraph at lines 353--353
+\T1/ptm/m/n/8 ata-ques à es-tru-tura
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 353--353
+[]|\T1/ptm/m/n/8 Inclui bi-bli-o-teca de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--353
+\T1/ptm/m/n/8 ata-ques a com-po-
+ []
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 353--353
+\T1/ptm/m/n/8 nen-tes da es-tru-tura
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 \T1/ptm/m/n/10.95 24
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 116.
+(babel)             in language  on input line 362.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 116.
-[24
+(babel)             in language  on input line 362.
+[24]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 363.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 363.
+ [25]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 363.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 368.
+
+
+Package hyperref Warning: Suppressing empty link on input line 371.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 378.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\T1/ptm/m/n/10.95 26
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 382.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 382.
+[26
+
+]
+
+Package hyperref Warning: Suppressing empty link on input line 387.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 391.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 395.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 395.
+[27] <astoria_simulation.pdf, id=533, 940.51375pt x 579.16376pt>
+File: astoria_simulation.pdf Graphic file (type pdf)
+
+<use astoria_simulation.pdf>
+Package pdftex.def Info: astoria_simulation.pdf used on input line 401.
+(pdftex.def)             Requested size: 360.0pt x 221.68407pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\T1/ptm/m/n/10.95 28
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 415.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 415.
+[28]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 419.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 424.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 424.
+ [29 <./astoria_simulation.pdf>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 426.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\T1/ptm/m/n/10.95 30
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 449.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 449.
+[30]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 468.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 468.
+ [31]
+Underfull \hbox (badness 10000) has occurred while \output is active
+\T1/ptm/m/n/10.95 32
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 476.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 476.
+[32]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 476.
+ <sdi_diagram.pdf, id=577, 745.78625pt x 434.62375pt>
+File: sdi_diagram.pdf Graphic file (type pdf)
+
+<use sdi_diagram.pdf>
+Package pdftex.def Info: sdi_diagram.pdf used on input line 491.
+(pdftex.def)             Requested size: 408.0pt x 237.77048pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 500.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 500.
+[33] <modelrtu.pdf, id=583, 579.16376pt x 217.81375pt>
+File: modelrtu.pdf Graphic file (type pdf)
+ <use modelrtu.pdf>
+Package pdftex.def Info: modelrtu.pdf used on input line 509.
+(pdftex.def)             Requested size: 408.0pt x 153.44237pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\T1/ptm/m/n/10.95 34
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 516.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 516.
+[34 <./sdi_diagram.pdf> <./modelrtu.pdf>]
+<modelanalyser.pdf, id=595, 579.16376pt x 253.94875pt>
+File: modelanalyser.pdf Graphic file (type pdf)
+ <use modelanalyser.pdf>
+Package pdftex.def Info: modelanalyser.pdf used on input line 533.
+(pdftex.def)             Requested size: 408.0pt x 178.89825pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 540.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 540.
+[35]
+Underfull \hbox (badness 10000) has occurred while \output is active
+\T1/ptm/m/n/10.95 36
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 553.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 553.
+[36 <./modelanalyser.pdf>]
+<modelclassifier.pdf, id=608, 543.02875pt x 217.81375pt>
+File: modelclassifier.pdf Graphic file (type pdf)
+
+<use modelclassifier.pdf>
+Package pdftex.def Info: modelclassifier.pdf used on input line 559.
+(pdftex.def)             Requested size: 408.0pt x 163.65901pt.
+
+<classdiagram.png, id=609, 1084.80281pt x 545.78906pt>
+File: classdiagram.png Graphic file (type png)
+ <use classdiagram.png>
+Package pdftex.def Info: classdiagram.png used on input line 568.
+(pdftex.def)             Requested size: 432.0pt x 217.34569pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 575.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 575.
+
+[37 <./modelclassifier.pdf> <./classdiagram.png>]
+<sequencediagram.pdf, id=619, 723.70375pt x 651.43375pt>
+File: sequencediagram.pdf Graphic file (type pdf)
+
+<use sequencediagram.pdf>
+Package pdftex.def Info: sequencediagram.pdf used on input line 579.
+(pdftex.def)             Requested size: 432.0pt x 388.8653pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\T1/ptm/m/n/10.95 38
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 586.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 586.
+[38 <./sequencediagram.pdf>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 591.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 591.
+ [39]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 591.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 596.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\T1/ptm/m/n/10.95 40
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 603.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 603.
+[40
+
+]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 608.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 614.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 614.
+ [41]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 616.
+ <topologia.pdf, id=646, 520.94624pt x 260.975pt>
+File: topologia.pdf Graphic file (type pdf)
+ <use topologia.pdf>
+Package pdftex.def Info: topologia.pdf used on input line 628.
+(pdftex.def)             Requested size: 360.0pt x 180.34772pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\T1/ptm/m/n/10.95 42
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 636.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 636.
+[42]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 639.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 642.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 642.
+ [43 <./topologia.pdf>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 655.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\T1/ptm/m/n/10.95 44
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 661.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 661.
+[44] <chartdos1.png, id=1351, 1099.10625pt x 808.01875pt>
+File: chartdos1.png Graphic file (type png)
+ <use chartdos1.png>
+Package pdftex.def Info: chartdos1.png used on input line 670.
+(pdftex.def)             Requested size: 360.0pt x 264.64966pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 677.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 677.
+
+[45 <./chartdos1.png (PNG copy)>]
+<chartdos2.png, id=1357, 1099.10625pt x 808.01875pt>
+File: chartdos2.png Graphic file (type png)
+ <use chartdos2.png>
+Package pdftex.def Info: chartdos2.png used on input line 681.
+(pdftex.def)             Requested size: 360.0pt x 264.64966pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\T1/ptm/m/n/10.95 46
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 688.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 688.
+[46 <./chartdos2.png (PNG copy)>]
+<chartsize.png, id=1363, 1099.10625pt x 808.01875pt>
+File: chartsize.png Graphic file (type png)
+ <use chartsize.png>
+Package pdftex.def Info: chartsize.png used on input line 692.
+(pdftex.def)             Requested size: 360.0pt x 264.64966pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 699.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 699.
+
+[47 <./chartsize.png (PNG copy)>]
+Underfull \hbox (badness 10000) has occurred while \output is active
+\T1/ptm/m/n/10.95 48
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 704.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 704.
+[48]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 704.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 705.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 706.
+ (./document.bbl
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 3.
+ [49
+
+]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 3.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\T1/ptm/m/n/10.95 50
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 120.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 120.
+[50
 
 ]) 
 AED: lastpage setting LastPage
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 392.
+(babel)             in language  on input line 720.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 392.
-[25]
+(babel)             in language  on input line 720.
+[51]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 392.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 392.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 392.
+(babel)             in language  on input line 720.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 720.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 720.
  (./document.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 392.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 392.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 720.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 720.
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: 268796CA5DC0AFB889B5246294ED445F;8302.
-
-
-LaTeX Warning: There were undefined references.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 392.
+(rerunfilecheck)             Checksum: 89D10AB03CE3CDB3859254A8DCB3A4D8;8974.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 720.
  ) 
 Here is how much of TeX's memory you used:
- 16477 strings out of 494963
- 269798 string characters out of 6179648
- 330161 words of memory out of 5000000
- 19379 multiletter control sequences out of 15000+600000
- 28252 words of font info for 39 fonts, out of 8000000 for 9000
+ 17319 strings out of 494963
+ 281536 string characters out of 6179648
+ 347779 words of memory out of 5000000
+ 20131 multiletter control sequences out of 15000+600000
+ 30797 words of font info for 44 fonts, out of 8000000 for 9000
  38 hyphenation exceptions out of 8191
- 52i,11n,45p,10389b,590s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,11n,45p,10389b,596s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/u
-tmri8a.pfb>
-Output written on document.pdf (25 pages, 342978 bytes).
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on document.pdf (51 pages, 1936381 bytes).
 PDF statistics:
- 494 PDF objects out of 1000 (max. 8388607)
- 444 compressed objects within 5 object streams
- 94 named destinations out of 1000 (max. 500000)
- 342 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1466 PDF objects out of 1728 (max. 8388607)
+ 1023 compressed objects within 11 object streams
+ 149 named destinations out of 1000 (max. 500000)
+ 413 words of extra memory for PDF output out of 10000 (max. 10000000)
 
